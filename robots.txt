@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gogogerr.github.io/cs2024-oura/sitemap.xml
