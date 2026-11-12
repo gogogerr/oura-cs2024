@@ -8,3 +8,12 @@ footer{padding:30px 6% 18px}footer .footer-grid{grid-template-columns:1fr 1fr;ga
 @media(max-width:760px) and (max-height:600px){.scene-kicker{font-size:10px}.sensor-explainer p{font-size:13px}.sensor-explainer .sensor-controls button{font-size:10px}.play-copy p{font-size:16px}.scene-perspective>p,.scene-orbit>p{font-size:17px}.cinema-tagline{font-size:9px;top:75px}}
 .story-split{align-items:start}.story-split h2{font-size:clamp(48px,5.5vw,74px);line-height:1.02;margin:24px 0 30px}.story-split .proof-strip{display:block;padding:24px;margin-top:24px}.story-split .proof-strip a{display:inline-flex;min-height:40px;align-items:center}.story-split .proof-strip p{margin:12px 0}
 @media(max-width:760px){.story-split h2{font-size:clamp(39px,11.5vw,58px);margin:22px 0}.story-split .proof-strip{margin-top:22px}}
+
+/* Clear navigation and purchase actions without changing the palette. */
+#menu a{text-transform:uppercase}
+.shop-link,#selected-product{text-transform:uppercase;font-weight:700;letter-spacing:.065em;font-size:16px;line-height:1.35}
+header .small-buy.shop-link{font-size:15px;padding:13px 20px;border-width:2px}
+.hero-purchase.shop-link{font-size:16px}
+@media(max-width:760px){
+ .shop-link,.mobile-guide .shop-link,.finish-copy .shop-link,#selected-product{font-size:15px;min-height:52px}
+}
