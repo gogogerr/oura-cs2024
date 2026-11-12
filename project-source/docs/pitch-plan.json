@@ -1,0 +1,228 @@
+[
+  {
+    "title": "Small ring.\nBig picture.",
+    "body": "Oura Ring 4 / Form & Function\nCS2024 agency pitch by Alger, Tarence and Cheryl",
+    "cover": true
+  },
+  {
+    "title": "The goal is 20% sales growth\nwithin three months",
+    "body": "Proposed measure: seller-confirmed completed orders during the three calendar months after campaign launch, compared with a comparable three-month baseline.\n\nGrowth = (campaign orders − baseline orders) / baseline orders × 100.\nThis is a target. No sales uplift has been observed or promised."
+  },
+  {
+    "title": "Design thinking guides\nthe buying journey",
+    "body": "Empathise: desk research suggests three needs: sleep context, recovery and everyday activity.\nDefine: visitors need relevance, evidence, fit and ownership costs.\nIdeate: persona routes converge on one buying-guide form.\nPrototype: nine core pages plus five supporting pages.\nTest: browser checks completed; physical-phone and target-user testing remain open."
+  },
+  {
+    "title": "Research informs the copy,\nwith clear limits",
+    "body": "Official Oura sources support product, sizing and membership facts.\nShopee desk checks on 10 November 2026 found indexed Ring 4 pages marked Sold Out; current purchasable stock is not confirmed.\nMOH and HealthHub provide wellness context, not evidence of Oura purchase intent.\nNo interviews, customer quotes or survey results are invented."
+  },
+  {
+    "title": "Three Singapore personas",
+    "body": "Michelle, 27 | Marketing executive | Sleep\nIrregular bedtimes; asks what is behind a score. Sleep explains estimated stages and consistency.\n\nDaniel, 36 | Product manager and runner | Recovery\nAlready owns a watch; Ring vs watch explains the complementary role.\n\nFarid, 49 | Facilities manager | Activity\nWants discreet daily tracking; Activity explains movement and format.\n\nProposed personas, not interviewed customers. Each route ends at the guide."
+  },
+  {
+    "title": "Creative brief\nForm / Function",
+    "body": "Promise: help visitors decide whether Ring 4 fits their routine.\nTone: clear, precise and lightly playful.\nConcept: the ring travels from a work desk through sensing to finish selection.\nPrimary conversion: create a personalised buying guide, then continue to the exact Shopee listing.\nCampaign: S$20 voucher and sizing-kit support are proposals only, subject to retailer approval."
+  },
+  {
+    "title": "Font selection",
+    "body": "Arial / Helvetica: bold display headlines and clear body copy. Familiar system fonts load without external requests.\nGeorgia: editorial emphasis in feature and supporting-page headings.\nMonospace system fallback: scene labels and technical captions.\nHierarchy: oversized short headings, readable body copy, compact secondary labels. Important buying information stays in body text."
+  },
+  {
+    "title": "Theme selection",
+    "body": "Olive #30372E: quiet technical setting.\nCream #F2E8D2: warm high-contrast text and information sections.\nOrange #E08750: accents and focus indication.\nTitanium rendering and a measuring mat make the physical object tangible.\nORYZO informs interaction patterns. The code, copy and artwork are original."
+  },
+  {
+    "title": "Sitemap and navigation",
+    "table": [
+      [
+        "Level",
+        "Current navigation labels"
+      ],
+      [
+        "Entry",
+        "Overview"
+      ],
+      [
+        "Understand",
+        "Sleep · Recovery · Activity"
+      ],
+      [
+        "Evaluate",
+        "Ring vs watch · Technology"
+      ],
+      [
+        "Choose",
+        "Sizing & colours · Price & buying"
+      ],
+      [
+        "Act / support",
+        "Free buying guide / Research · Team · Privacy · Sitemap · Project pitch"
+      ]
+    ],
+    "note": "Nine core journey pages and five supporting pages. Privacy is additional."
+  },
+  {
+    "title": "User journey map",
+    "table": [
+      [
+        "Stage",
+        "Visitor question",
+        "Page / response",
+        "Proposed measurement"
+      ],
+      [
+        "Discover",
+        "Is it relevant to me?",
+        "Sleep / Recovery / Activity",
+        "Relevant page visits"
+      ],
+      [
+        "Understand",
+        "Why a ring? Can I trust it?",
+        "Ring vs watch / Technology",
+        "Evidence exploration"
+      ],
+      [
+        "Choose",
+        "Will it fit? What is the cost?",
+        "Sizing & colours / Price & buying",
+        "Fit and cost interactions"
+      ],
+      [
+        "Create guide",
+        "What should I choose?",
+        "Personalised guide + exact listing",
+        "Guide completion / product clicks"
+      ],
+      [
+        "Purchase",
+        "Is my variant available?",
+        "Shopee stock, terms and order",
+        "Seller-confirmed orders"
+      ]
+    ],
+    "note": "Guide creation works locally. No analytics, live mailing list or seller-order attribution is installed."
+  },
+  {
+    "title": "Pages breakdown\nDiscovery and understanding",
+    "table": [
+      [
+        "Page",
+        "Content purpose",
+        "Next action"
+      ],
+      [
+        "Overview",
+        "Immersive ring and three need routes",
+        "Choose a relevant feature"
+      ],
+      [
+        "Ring vs watch",
+        "Compare format and practical limits",
+        "Explore fit and guide"
+      ],
+      [
+        "Sleep",
+        "Explain estimated nightly patterns",
+        "Sleep-focused guide"
+      ],
+      [
+        "Recovery",
+        "Explain readiness and personal trends",
+        "Recovery-focused guide"
+      ],
+      [
+        "Activity",
+        "Explain screenless everyday tracking",
+        "Activity-focused guide"
+      ]
+    ]
+  },
+  {
+    "title": "Pages breakdown\nDecision and action",
+    "table": [
+      [
+        "Page",
+        "Content purpose",
+        "Next action"
+      ],
+      [
+        "Technology",
+        "Sensors, evidence and limitations",
+        "Explore sizing or guide"
+      ],
+      [
+        "Sizing & colours",
+        "Finish and generation-specific sizing",
+        "Carry preferences to guide"
+      ],
+      [
+        "Price & buying",
+        "Ring, membership, seller terms and listings",
+        "Guide or exact Shopee listing"
+      ],
+      [
+        "Free buying guide",
+        "Local personalised result and text download",
+        "Review guide / selected product"
+      ],
+      [
+        "Supporting pages",
+        "Privacy, team, sources, sitemap and pitch",
+        "Check evidence and project details"
+      ]
+    ]
+  },
+  {
+    "title": "SEO supports\nspecific buying questions",
+    "body": "Live website: gogogerr.github.io/cs2024-oura/\nSearch themes: Oura Ring 4 Singapore, sleep tracker, readiness, fitness, sizing and membership cost.\nEach core page has an individual title, description, H1, internal links and canonical URL. XML sitemap is included.\nSearch Console submission and ranking outcomes are not verified. FAQ markup does not promise Google rich results."
+  },
+  {
+    "title": "Content strategy\nAnswers before persuasion",
+    "body": "Relevant feature pages answer each persona’s main objection.\nSizing and membership copy explain practical buying decisions before the product link.\nThe free personalised guide is the working incentive; campaign benefits are labelled proposals.\nAvailability is a launch gate: verify an orderable size, seller terms and fulfilment before promoting purchases.\nValidate persona assumptions with observed tasks; no conversion uplift is claimed."
+  },
+  {
+    "title": "A three-month\nmarketing plan",
+    "table": [
+      [
+        "Period",
+        "Proposed activity",
+        "Evidence to review"
+      ],
+      [
+        "Before launch",
+        "Verify marketplace stock; agree baseline; test user tasks",
+        "Orderable variant and seller-confirmed baseline"
+      ],
+      [
+        "Month 1",
+        "Launch short product demos and search content about sizing and cost",
+        "Qualified visits and feature engagement"
+      ],
+      [
+        "Month 2",
+        "Test benefits-first versus sizing-first guide CTAs",
+        "Guide completions and qualified product clicks"
+      ],
+      [
+        "Month 3",
+        "Improve weak steps and expand content that helps buying decisions",
+        "Completed orders and relative growth"
+      ]
+    ],
+    "note": "20% is a three-month sales target, not a result. Hold paid promotion until stock is confirmed."
+  },
+  {
+    "title": "Buying guide and privacy",
+    "body": "Choose Sleep, Recovery or Activity and optional name, finish and size. No email field.\nRequired local-processing consent and separate optional future-updates preference are unticked.\nThe guide appears on-page and can be downloaded as text; the matching Shopee link follows the selected finish.\nNo data is submitted, no mailing subscription is created and no payment is taken. Clear the result to withdraw this local choice."
+  },
+  {
+    "title": "Publication and submission",
+    "body": "GitHub Pages is live at gogogerr.github.io/cs2024-oura/.\nBrowser checks cover navigation, phone layouts, ring controls, preferences and the guide form.\nStill open: actual-phone missing-visual diagnosis, completed download verification and current buyable Ring 4 stock.\nSubmit the final published website link and this PowerPoint through NTULearn. Check that the final files and website agree."
+  },
+  {
+    "title": "Team roles and contribution evidence",
+    "body": "Alger Goh - Project Manager / Web Designer\nYong Jun Xiong Tarence - Copywriter / Web Developer\nTan Xue Rou, Cheryl - Project Manager / Copywriter\n\nRoles are team-confirmed. Keep meeting notes, commits, task ownership and review records as evidence of actual contributions.\nNo attendance, individual completion record or interview result is fabricated. Full school emails are on team.html."
+  }
+]

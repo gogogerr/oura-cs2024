@@ -1,0 +1,475 @@
+Final Assessment: Group Project
+
+ 
+
+Problem Statement:
+
+ 
+
+To develop a sale website for a product that is in Shopee/Lazada
+
+ 
+
+Goals:
+
+
+
+To improve sales within the next 3 months by 20%.
+ 
+
+Reference Website
+
+- https://remarkable.com/
+
+- https://subminimal.com/products/nanofoamer
+
+ 
+
+Requirements
+
+ 
+
+
+
+To form in a group of 3 to represent an agency comprises of Project Manager, Copywriter, Web Designer / Developer within their own tutorial group.
+The team is required to develop an end to end website using HTML and CSS
+The sitemap is required to be a total of at least 9 pages. 
+The number of pages included to be done is based on the team size excluding Privacy Policy Page
+Research and Copywriting and have to be original.
+A page containing a Form for the call to action is required.
+PDPA is required to be handled in the project
+ A powerpoint presentation is required to simulate a pitch which includes
+Sitemap design
+Font selection
+Theme selection
+Creative brief concept
+Target Persona
+User Journey Map
+Pages breakdown
+SEO
+Website Marketing Strategy
+ 
+
+Notes:
+
+
+
+Plan to develop the website by forming goals with Design thinking Process in mind.
+Research on your target audiences or persona behavior.
+Develop a user mapping journey process to develop the user sitemap and navigation.
+ 
+
+
+
+
+Deliverables
+
+ 
+
+
+
+Create the website and upload to github
+https://docs.github.com/en/pages/quickstart
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+Make sure a page call team.html is created that indicate the group number and ALL the teammates name and email cited in your matrix
+Submit the website via a weblink with ppt via NTULearn before the deadline.
+Develop a power-point report that contains your web design planning (including navigation and sitemap design), research and content strategy process.
+
+
+ 
+
+ 
+
+      
+
+
+
+
+
+
+
+Overall Website Usability and Functionality – 25%
+
+      Assessment Criteria
+
+Exemplary
+
+Proficient
+
+Developing
+
+Unsatisfactory
+
+      
+
+(20 to 25%)
+
+(15-19%)
+
+(10-14%)
+
+(0-9%)
+
+      Content and Layout
+
+Page layout is creative and effective. Layout effects and extends the ideas and content.
+
+Page layout is interesting and appropriate for content. Layout is appropriate for the content
+
+Page layout may be ‘busy’ or unimaginative. Unreflective use of a template.
+
+Layout of pages is confusing, or cluttered or dull. It does not reflect ideas and content but seems arbitrary.
+
+      
+
+In-depth research calls on a wide variety of resources. Content is fresh, original, insightful
+
+Information offers a comprehensive and accurate picture of the topic
+
+Information is accurate but not always complete
+
+Information is inaccurate or contains significant gaps
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+      Website Navigation and Functionality
+
+There is evidence to show that the website has a simple and powerful navigation flow which allows users to navigate intuitively.
+
+There is evidence of a clear and simple navigation flow which allows users to navigate around comfortably.
+
+Navigation flow of the website may be awkward or difficult to use.
+
+Navigation of the website is unclear, and users gets lost while navigating on or between pages
+
+       
+
+ 
+
+ 
+
+ 
+
+ 
+
+       
+
+Functionality is suitable for the target audience and enhances the purpose.
+
+Functionality is appropriate for target audience and accomplishes the purpose
+
+Some functionality may not work as intended, or may not meet the needs of the target audience
+
+Website Functionality are problematic and do not work
+
+       
+
+ 
+
+ 
+
+ 
+
+ 
+
+       
+
+Creative use of interactivityenhances purpose of the site
+
+There is good use of interactivity for the purpose of the site
+
+ 
+
+ 
+
+       
+
+ 
+
+ 
+
+ 
+
+ 
+
+      Target and Purpose
+
+Website displays strong evidence that there is a clear purpose being communicated.
+
+Website displays evidence that the purpose is clearly laid out and communicated.
+
+Website displays evidence that the purpose has been thought of but unclear
+
+Website lacks obvious purpose.
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+      
+
+There is evidence that all elements of the site are engaging and appropriate for the target audience.
+
+There is evidence that many elements of the site are appropriate for the target audience.
+
+There is evidence that the side has been planned with a target audience in mind.
+
+There was no indication that the site was planned and created for a target audience.
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+       
+
+ 
+
+ 
+
+ 
+
+ 
+
+      
+
+
+
+
+
+
+
+Powerpoint Report – 10%
+
+      Assessment Criteria
+
+Exemplary
+
+Proficient
+
+Developing
+
+Unsatisfactory
+
+      
+
+(9 to 10%)
+
+(7-8%)
+
+(5-6%)
+
+(0-4%)
+
+       
+
+ 
+
+ 
+
+ 
+
+ 
+
+      Content
+
+Demostrate good design thinking process
+
+Indepth research on content strategy
+
+Basic persona research done
+
+No Strategy or planning done
+
+       
+
+Good content strategy to meet KPI
+
+Good navigation design.
+
+Simple navigation planning
+
+Content strategy is weak.
+
+       
+
+Clear User Mapping Journey in navigation design
+
+Good research on topic
+
+Basic content strategy is shown.
+
+Research is inadequate.
+
+       
+
+Research is comprehensive and clear.
+
+ 
+
+Basic research on topic is shown.
+
+ 
+
+       
+
+ 
+
+ 
+
+ 
+
+ 
+
+      Assessment Criteria
+
+Exemplary
+
+Proficient
+
+Developing
+
+Unsatisfactory
+
+      
+
+-5%
+
+-4%
+
+-3%
+
+(0-2%)
+
+      Attends group meetings regularly
+
+Team member consistently and actively works toward group goals. Member participates, attends project meetings and delivers work without having to be reminded.
+
+Team member works toward group goals with occasional prompting. Member participates, attends most project meetings and delivers work with occasional reminders.
+
+Team member works toward group goals but needs repeated prompting. Member is present at meetings but frequently late and often needs reminding to do the assigned work.  
+
+Team member does not work towards group goals or only does so when prompted. Member is absent or late to more than half of the project meetings. Member does not reliably deliver work within group deadlines.
+
+       
+
+
+
+
+
+
+
+
+
+      Contributes meaningfully to group discussions
+
+
+
+
+
+
+
+
+
+      Prepares work in a quality manner
+
+Critical to contributing knowledge, opinions and skills, without prompting or reminding. Produces work of the highest quality.
+
+Frequently contributed
+
+knowledge, opinions and skills, with some prompting or reminding. Produces good quality work.
+
+Sometimes contributed information to the group with occasional prompting or reminding. Produces acceptable work.
+
+Did not contribute information to the group or did so rarely and only when prompted. Often or always relies on others to complete the work.
+
+       
+
+
+
+
+
+
+
+
+
+      Contributes significantly to the success of the project
+
+
+
+
+
+
+
+
+
+      Completes group tasks deadline on time
+
+Accepted and fulfilled individual role within group. Helps group identify needed changes, actions needed to change and participates in needed changes.
+
+Accepted and fulfilled individual role within group. Willingly participates in needed changes, usually does assigned work and rarely needs reminding.
+
+Fulfilled individual role within group but required direction from other team members. Participates in needed changes if prompted.
+
+Did not fulfil individual role within group. Does not participate in needed changes or only accepts a low workload compared to other team members.
+
+       
+
+
+
+
+
+
+
+
+
+      Demonstrate a cooperative and supportive attitude
+
+
+
+
+
+
+
+
+
+       

@@ -1,0 +1,31 @@
+{
+  "base_url": "https://gogogerr.github.io/cs2024-oura",
+  "project_name": "Form / Function",
+  "reviewed": "2026-11-10",
+  "group_number": null,
+  "privacy_contact": "agoh039@e.ntu.edu.sg",
+  "offer": {
+    "campaign": "Proposed launch campaign",
+    "voucher": "S$20 Ring 4 voucher - proposal only",
+    "sizing_kit": "Ring 4 sizing-kit support, subject to retailer approval",
+    "status": "Not active or redeemable",
+    "conditions": "Retailer approval, stock, eligibility and fulfilment terms must be agreed before launch."
+  },
+  "team": [
+    {
+      "name": "Alger Goh",
+      "email": "agoh039@e.ntu.edu.sg",
+      "roles": "Project Manager / Web Designer"
+    },
+    {
+      "name": "Yong Jun Xiong Tarence",
+      "email": "jyong035@e.ntu.edu.sg",
+      "roles": "Copywriter / Web Developer"
+    },
+    {
+      "name": "Tan Xue Rou, Cheryl",
+      "email": "TA0004YL@e.ntu.edu.sg",
+      "roles": "Project Manager / Copywriter"
+    }
+  ]
+}
